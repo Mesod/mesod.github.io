@@ -3,13 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mesod.github.io/categories/</loc>
-    <priority>0</priority>
+    <loc>https://mesod.github.io/about/</loc>
+    <lastmod>2019-06-02T17:15:36+04:30</lastmod>
   </url>
   
   <url>
     <loc>https://mesod.github.io/</loc>
-    <priority>0</priority>
+    <lastmod>2019-06-02T17:15:36+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mesod.github.io/the-beginning/</loc>
+    <lastmod>2019-06-02T17:15:36+04:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mesod.github.io/post/</loc>
+    <lastmod>2019-06-02T17:15:36+04:30</lastmod>
   </url>
   
   <url>
