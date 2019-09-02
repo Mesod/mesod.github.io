@@ -20,14 +20,5 @@
       <description>My CV will appear Here!</description>
     </item>
     
-    <item>
-      <title>The Beginning</title>
-      <link>https://mesod.github.io/the-beginning/</link>
-      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mesod.github.io/the-beginning/</guid>
-      <description>Story of my blog! Logo and everything!</description>
-    </item>
-    
   </channel>
 </rss>
